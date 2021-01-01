@@ -4,15 +4,15 @@ return [
 	/**
 	 * Bot's API token
 	 */
-	'bot_token' => '111111111:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA',
+	'bot_token' => '1309504600:AAEeBquYnfrdKOqGd_1kBUwsPengw42bTHo',
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'example_bot',
+	'bot_username' => 'Airdropp_Bounty_bot',
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'example airdrop bot',
+	'bot_title' => 'Airdrop Bounty Bot',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
@@ -47,7 +47,7 @@ return [
 	 *
 	 * Token name
 	 */
-	'token_name' => 'CATBOT',
+	'token_name' => 'Atron Token',
 	/**
 	 * Tokens count, which user will get after complete campaign goals
 	 */
@@ -57,12 +57,12 @@ return [
 	 * Telegram group which user need to join after campaign start
 	 */
 	'telegram_group_to_follow_id' => '-111111111',
-	'telegram_group_to_follow_link_url' => 'https://t.me/joinchat/123ABC123ABC',
+	'telegram_group_to_follow_link_url' => 'https://t.me/',
 	/**
 	 * Telegram channel which user need to join after campaign start
 	 */
 	'telegram_channel_to_follow_id' => '-2222222222222',
-	'telegram_channel_to_follow_link_url' => 'https://t.me/example_channel',
+	'telegram_channel_to_follow_link_url' => 'https://t.me/IndianTradingLTD',
 	/**
 	 * Link to twitter profile which lase tweet user must to retweet
 	 */
